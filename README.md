@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @akshaynavale20
-- 👀 I’m interested in Golnag Programming
+- 👀 I’m interested in Golang.
 - 🌱 I’m currently learning Python,Golang,VueJS.
 - 📫 How to reach me ...
 
